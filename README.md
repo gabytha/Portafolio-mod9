@@ -3,7 +3,7 @@ Soy una profesional en constante crecimiento siempre aprendiendo también me e d
 
 ## 📚 Formación Académica
 
-- **Full java -Stack Developer - JavaScript**  
+- **Full-Stack Developer - JavaScript**  
   Talento digital (2023)  
 - **Full-Stack Developer - Ruby on Rails**  
   Talento Digital (2024)  
