@@ -3,7 +3,6 @@ Soy una profesional en constante crecimiento siempre aprendiendo también me e d
 
 ## 📚 Formación Académica
 
- 
 - **Full java -Stack Developer - JavaScript**  
   Talento digital (2023)  
 - **Full-Stack Developer - Ruby on Rails**  
@@ -20,9 +19,7 @@ Soy una profesional en constante crecimiento siempre aprendiendo también me e d
 
 ### Frameworks y Librerías  
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)](https://expressjs.com)  
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)](https://nextjs.org)  
 [![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=101010)](https://rubyonrails.org)  
 
 ### Herramientas de Estilo  
@@ -38,16 +35,10 @@ Soy una profesional en constante crecimiento siempre aprendiendo también me e d
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com)
 
-### Plataformas de Despliegue  
-[![Render](https://img.shields.io/badge/Render-0099FF?style=for-the-badge&logo=render&logoColor=white&labelColor=101010)](https://render.com)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)](https://www.netlify.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://vercel.com)
-
-
 
 ## 📫 Contacto
 
-¿Interesado en colaborar o conocer más sobre mis proyectos? ¡Estoy a solo un clic de distancia!  
+Aaca puedes contactarme para cualquier consulta  
 
 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gapablaza92@gmail.com)    
 
