@@ -39,6 +39,7 @@ Soy una profesional en constante crecimiento siempre aprendiendo también me e d
 ## 📫 Contacto
 
 Aaca puedes contactarme para cualquier consulta  
+www.linkedin.com/in/gabriela-apablaza-diaz-18931b288
 
 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gapablaza92@gmail.com)    
 
