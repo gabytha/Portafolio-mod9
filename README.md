@@ -3,6 +3,6 @@ Soy una profesional en constante crecimiento siempre aprendiendo también me e d
 
 Mis estudios son 
 
-desallorador full java stack
+desallorador full java stack,
 ruby on rails para empredimientos de tipo startup
 
